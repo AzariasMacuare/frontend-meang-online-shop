@@ -1,0 +1,13 @@
+@import "./../../../pages/admin.component.scss";
+
+#sidebar-wrapper {
+  background-color: $admin-primary-color;
+}
+
+.gamezonia {
+  text-decoration: none;
+  color: whitesmoke;
+}
+.gamezonia:hover {
+  text-decoration: underline;
+}
